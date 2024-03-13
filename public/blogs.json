@@ -1,0 +1,52 @@
+[
+    {
+        "id": 12345,
+        "coverImg": "https://i.ibb.co/bzD7zqg/computer.jpg",
+        "title": "A Glimpse into the Ancient World",
+        "author": "Dr. Amelia Rose",
+        "author_img": "https://www.alamy.com/stock-photo/amelia-rose.html",
+        "reading_time": 15,
+        "postedDate": "2024-03-12",
+        "hashtags": "#history, #nonfiction, #ancientcivilizations"
+    },
+    {
+        "id": 54321,
+        "coverImg": "https://i.ibb.co/vsWbd87/book.jpg",
+        "title": "Tales from Andromeda",
+        "author": "Alex Knight",
+        "author_img": "https://www.pexels.com/@agk42/",
+        "reading time": 30,
+        "postedDate": "2024-03-10",
+        "hashtags": "#scifi, #adventure, #aliens"
+    },
+    {
+        "id": 98765,
+        "coverImg": "https://i.ibb.co/61fN5CC/lb.jpg",
+        "title": "The Secret Garden",
+        "author": "Jane Doe",
+        "author_img": "https://www.alamy.com/stock-photo/jane-doe.html",
+        "reading_time": 45,
+        "postedDate": "2024-03-08",
+        "hashtags": "#romance, #mystery, #fiction"
+    },
+    {
+        "id": 32109,
+        "coverImg": "https://i.ibb.co/yssG6Wx/img4.jpg",
+        "title": "World of Flavors",
+        "author": "Chef John Smith",
+        "author_img": "https://www.istockphoto.com/photos/john-smith",
+        "reading_time": 20,
+        "postedDate": "2024-03-06",
+        "hashtags": "#cooking, #recipes, #internationalcuisine"
+    },
+    {
+        "id": 76543,
+        "coverImg": "https://i.ibb.co/vBMP9bm/img5.jpg",
+        "title": "Empowering Yourself",
+        "author": "Dr. Maria Lopez",
+        "author_img": "https://www.instagram.com/marialopez77705/?hl=en",
+        "reading_time": 25,
+        "postedDate": "2024-03-04",
+        "hashtags": "#selfhelp, #motivation, #personaldevelopment"
+    }
+]
